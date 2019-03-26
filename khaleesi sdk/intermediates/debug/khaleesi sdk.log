@@ -1,0 +1,13 @@
+﻿  dll_main.cpp
+  logs.cpp
+  anti_aim.cpp
+  resolver.cpp
+  grenade_prediction.cpp
+  hooks.cpp
+  interfaces.cpp
+  menu.cpp
+  globals.cpp
+  netvar_manager.cpp
+  vector.cpp
+  Generating Code...
+  khaleesi sdk.vcxproj -> C:\Users\dopamine\Desktop\khaleesi-sdk\khaleesi sdk\.\output\debug\khaleesi sdk.dll
